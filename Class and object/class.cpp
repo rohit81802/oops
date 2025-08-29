@@ -19,6 +19,9 @@ int main(){
     t1.dep = "cse";
     t1.sub="Python";
     t1.salary=4000;
- cout<<t1.name;
+ cout<<t1.name<<endl;
+ cout<<t1.salary<<endl;
+ cout<<t1.sub<<endl;
+ cout<<t1.dep<<endl;
     return 0;
 }
